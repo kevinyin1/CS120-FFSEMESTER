@@ -1,0 +1,34 @@
+Prof. Patrick H. Madden,
+pmadden@binghamton.edu, ENGB Q4
+
+Office Hours MWF 11-12
+Frequently TTh morning from 9-12, send an email to schedule something.
+
+Course web page: www.cs.binghamton.edu/~pmadden/courses/cs120/index.html 
+
+Lab- check BU Brain
+
+All electronics are analogs this is broken down  to digital zeros and ones
+The three ys:
+Hierarchy
+Three main modules: lock, stock and barrel
+Submodules of lock: hammer, flint, frizzen, etc.
+Most physical variables are continuous
+Voltage on a wire
+Frequency of an oscillation
+Position of a mass
+Digital abstraction considers discrete subset of concepts
+Discrete values: 
+1 and 0
+Bit: Binary digit
+Decimal numbers: general numbers (kindergarten)
+Binary: base 2 
+Make sure to memorize 2^9 
+Quiz friday, decimal to binary conversion
+Hex are always 4 digits
+F = 1111
+0xF3A5
+Hex is a shorthand for binary
+Hexadecimal similar to binary -> number conversion
+
+QUIZ ON FRIDAY LOL
