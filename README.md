@@ -1,4 +1,4 @@
-# Binghamton University - CS 120 - Kevin Yin - Fall Semester 2017
+# Binghamton University - CS 120 - Fall Semester 2017
 - This repo is where I will be storing all my notes and projects for CS 120.
 
 ## Useful Information
