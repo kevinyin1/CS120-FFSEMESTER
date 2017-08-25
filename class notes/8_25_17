@@ -1,0 +1,35 @@
+Group fo eight bits is a byte.
+Four bits is a nibble.
+2 HEX digits is a byte
+2^10 one thousand
+2^20 one million
+2^30 one billion
+2^24 is approx. 2^4 * 2^20 = 16 million
+32 bit = 2^2*2^30 4 billion
+Digital systems operate on a fixed number of bits.
+Sign/Magnitude Numbers
+Two’s Complement Numbers
+0: positive
+1: negative -> indication is on the left most bit
+0110 = 6
+1110 = -6
+Sign/Magnitude range
+[-(2^n-1 -1),2^n-1 -1] 
+Two’s Complement Numbers
+Msb has value of 2^n-1
+-8 4 2 1 
+1 0 0 0 -> -8
+1 1 0 1 -> -3
+0 1 1 1 -> 7
+1 0 0 1 -> -7
+if adding a positive and negative with complement numbers, you’re fine.
+When adding two positive or negative numbers, make sure to check the most significant bit
+Incrasing bit width,
+Sign-extension:
+From a 4 bit to a 8 bit.
+0011 -> 00000011
+Negative number ex:
+1011 -> 11111011
+
+zero-extension 
+
