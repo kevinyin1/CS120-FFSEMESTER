@@ -1,0 +1,41 @@
+Unsigned: everything strictly positive
+Two Complement: you knwo what ;)
+Y = !A 
+
+NOT BUFF AND OR XOR NAND NOR XNOR NOR3
+
+Discrete voltages represent 1 and 0
+For example:
+    - 0 = ground (GND) or 0 volt
+    - 1 = Vdd or 5 volts
+What about 4.99? is that a 0 or a 1?
+What about 3.2 volts?
+
+what is noise?
+Anything that degrades the signal
+    - E.g., resistance, power supply noise
+Example: a gate (drive) outputs 5 V but, because of resistance in a long wire, reciever gets 4.5 V
+
+With logically valid inputs, every circut element must produce logically valid outputs.
+Holt & Catch Fire
+            Intel EECE Heat Chart
+                                        C   |
+                                        .   |
+                                            |
+                B                           |
+    A           .                           |
+    .                                       |
+                                            |
+____________________________________________|
+
+A: Space Heater
+B. Blow Torch
+C. Surface of Sun
+
+Magic smoke lmfao
+Motorola 6502
+
+Logic gates are built from transistors
+
+semi conduct
+Metal oxide silicon (MOS) transistors:
