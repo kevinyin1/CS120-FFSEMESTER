@@ -18,7 +18,7 @@ Example: a gate (drive) outputs 5 V but, because of resistance in a long wire, r
 
 With logically valid inputs, every circut element must produce logically valid outputs.
 Holt & Catch Fire
-            Intel EECE Heat Chart
+            Intel Circut Heat Chart
                                         C   |
                                         .   |
                                             |
