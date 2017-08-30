@@ -1,0 +1,15 @@
+Power density will get even worse
+24 core amd epyc 7401p <- some crazy stuff lol
+P transistors are always on top
+N transistors are on the botton
+wires can overlap. A connector is a dot
+
+A logic circuit is composed of:
+    - Inputs
+    - Outputs
+    - Functional specification
+    - Timing specification
+             ___________
+             |          |
+    inputs ->|          |-> outputs
+             |__________|
