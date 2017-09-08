@@ -1,0 +1,40 @@
+Boolean Algebra
+AB!C + A!B!C -> (A!C)(B+!B) 
+
+
+H = Hurricanes
+E = Earthquakes
+F = Floods
+C = Coffee
+
+T = Good Day = 1
+
+H E F C T
+0 0 0 0 1
+0 0 0 1 1
+0 0 1 0 0
+0 0 1 1 1
+0 1 0 0 0
+0 1 0 1 1
+0 1 1 0 0
+0 1 1 1 1
+1 0 0 0 0
+1 0 0 1 0
+1 0 1 0 0
+1 0 1 1 0
+1 1 0 0 0
+1 1 1 0 0
+1 1 1 1 1
+
+Karnaugh Map
+
+    \HE
+   FC\___00___01___11___10___
+00   |    1                  |
+01   |    1    1             |
+11   |    1    1    1        | ->   !HC (set of 4) -> One and gate with two inputs
+10   |                       | ->   !H!E!F (set of two) vertical left -> One and gate with three inputs and three inverters
+     |_______________________| ->   EFC (set of two horizontal) -> one and gate with three inputs
+                                    !HC + !H!E!F + EFC Sum of Products (SOP) Sigma(0,1,3,5,7,14)
+
+a X in a truth table meas it doesn't care. I can decided whether it can be 1 or 0
