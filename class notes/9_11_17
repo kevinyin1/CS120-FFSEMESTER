@@ -1,0 +1,12 @@
+Muxiplier
+    - do a SOP and just add another wire with an input for all the and gates
+Decoder
+    - Two bits coming in, four bits coming out. Only one output can be on.
+Main of diatch
+
+Enable/Clock
+
+2 inputs, two and gates, two or gates, two outputs.
+            /\
+             |
+            Mux
