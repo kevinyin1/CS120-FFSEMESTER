@@ -15,5 +15,5 @@
 - August 30: Remainder of chapter 1
 - September 1: Remainder of chapter 1
 - October 13: Exam 1
-- November 20: Exam 2
+- November 17: Exam 2
 - December 11?: Final (exact date TBD)
