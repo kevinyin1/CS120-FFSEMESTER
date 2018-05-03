@@ -1,5 +1,5 @@
 # Binghamton University - CS 120 - Fall Semester 2017
-- a collection of labs, class notes and circuit (logisim)
+- a collection of labs, class notes and circuitry (logisim)
 
 ## Useful Information
 - [CS 120 Website](http://www.cs.binghamton.edu/~pmadden/courses/cs120/index.html)
