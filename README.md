@@ -1,5 +1,5 @@
 # Binghamton University - CS 120 - Fall Semester 2017
-- This repo is where I will be storing all my notes and projects for CS 120.
+- a collection of labs, class notes and circuit (logisim)
 
 ## Useful Information
 - [CS 120 Website](http://www.cs.binghamton.edu/~pmadden/courses/cs120/index.html)
